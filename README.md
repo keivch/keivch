@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**keivch/keivch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Sebastián Hernández Scarpetta**, a passionate **Backend Developer** who works with **Java**, **JavaScript**, and **Python**. I enjoy creating efficient, scalable, and maintainable solutions.
 
-Here are some ideas to get you started:
+### 🚪 About Me:
+- 💡 I love solving complex problems and continuously improving my skills.
+- 🔧 Experienced in using modern frameworks and tools.
+- 🤝 Open to collaborating on challenging backend projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📧 Contact Me:
+Feel free to reach out via email:
+[sebastianscarpetta19@gmail.com](mailto:sebastianscarpetta19@gmail.com)
+
+### ✨ Let's Build Together!
+Let's connect and build something amazing. Always open to new ideas and collaborations!
+
